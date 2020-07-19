@@ -1,6 +1,3 @@
-# notepad-npp-style
-A "notepad" themed "notepad++" style! :)
-
 # Notepad++ "Notepad" Theme
 Welcome to the theme!
 
