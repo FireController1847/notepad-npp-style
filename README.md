@@ -3,7 +3,7 @@ Welcome to the theme!
 
 It's super easy to use:  
 1. Download the latest release from the releases page
-2. Extract the file into the Notepad++ install directory
+2. Extract the file into the Notepad++ configuration directory (for Windows, %appdata%/Notepad++)
 3. You're done!
 
 Keep in mind this will override any Notepad++ settings you currently have.
